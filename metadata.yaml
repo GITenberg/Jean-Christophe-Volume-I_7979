@@ -1,4 +1,5 @@
 _repo: Jean-Christophe-Volume-I_7979
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cannan, Gilbert
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '2603'
     url: http://www.gutenberg.org/2009/agents/2603
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rolland, Romain
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7979#Jean-Christophe-Volume-I
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
